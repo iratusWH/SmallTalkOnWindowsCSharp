@@ -1,7 +1,7 @@
 ﻿
 namespace SmallTalk
 {
-    partial class Form1
+    partial class ChatSettings
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace SmallTalk
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ChatSettings));
             this.groupBoxChat = new System.Windows.Forms.GroupBox();
             this.chatUsersDataGridView = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();

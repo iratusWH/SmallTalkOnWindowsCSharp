@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SmallTalk
 {
-    public partial class Form1 : Form
+    public partial class ChatSettings : Form
     {
-        public Form1()
+        public ChatSettings()
         {
             InitializeComponent();
         }
